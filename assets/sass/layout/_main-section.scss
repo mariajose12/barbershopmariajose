@@ -1,0 +1,58 @@
+
+header{
+ background-image: url('../images/post-image.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: 100%;
+ padding-top: 20%;
+ padding-bottom: 20%;
+
+}
+
+.img-responsive{
+  width: 12%;
+}
+
+.cuerpotexto{
+  padding:0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin:60px;
+  border:20px;
+  text-align: justify;
+  font-size: 12pt;
+  word-spacing: 1px;
+  line-height:250%;
+
+}
+
+
+.modelo-caja {
+  align-content: center;
+  padding-left:110px;
+
+  padding-top: 50px;
+  padding-bottom:80px;
+  margin: auto;
+  line-height:200%;
+
+}
+.modelo-caja img {
+  border-radius: 140px;
+  width: 80%;
+}
+
+.texto-final{
+  text-align: left;
+}
+
+.paginacion{
+  background-color: #D1D1D1
+}
+
+.textorojo {
+
+  &:hover{
+    color: red;
+  }
+}

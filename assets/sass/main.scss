@@ -1,0 +1,43 @@
+// main.scss #Manifest fa-file-alt
+
+// bootstrap
+@import "vendors/bootstrap/node_modules/bootstrap/scss/bootstrap";
+
+// abstraccts
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+@import 'abstracts/placeholders';
+
+
+//Base
+@import 'base/base';
+@import 'base/reset';
+@import 'base/typography';
+
+//components
+@import 'components/buttons';
+@import 'components/carousel';
+@import 'components/cover';
+@import 'components/dropdown';
+@import 'components/inputs';
+
+//Layout
+@import 'layout/footer';
+@import 'layout/forms';
+@import 'layout/grid';
+@import 'layout/header';
+@import 'layout/main-section';
+@import 'layout/navigation';
+@import 'layout/sidebar';
+
+// pages
+
+
+
+
+//themes
+
+@import 'themes/admin';
+@import 'themes/theme';
+
+// vendors

@@ -1,0 +1,54 @@
+/* Base Typography*/
+
+h1,h2{
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-style: italic;
+  font-size: 40pt;
+}
+
+h1{
+  padding-top: 18%;
+  word-spacing: 3px;
+
+}
+
+.cuerpotexto{
+  color: #6C6E70;
+}
+
+h3{
+
+padding-left: 70px;
+font-size: 11pt;
+padding-top: 5%;
+word-spacing: 1px;
+letter-spacing: 2px;
+
+}
+
+
+.testimony {
+    h5 {
+        font-family: 'Playfair Display', serif;
+        font-weight: 900;
+        font-style: italic;
+        font-size: 2em;
+    }
+    h6 {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        color: #ECBCBA;
+        line-height: 1.3em;
+        font-size: 1.3em;
+    }
+    p {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        color: #6C6E70;
+        line-height: 1.3em;
+        font-size: 1em;
+        line-height:250%;
+    }
+}

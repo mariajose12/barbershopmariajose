@@ -1,0 +1,11 @@
+
+/*navbar*/
+.navbar{
+  background-color: #121619;
+}
+
+.nav-link {
+  &:hover{
+    color:$Ruddy-pink !important;
+  }
+}
